@@ -1,0 +1,10 @@
+Server Name - MAAL-BC1
+Server ip - 54.179.75.161
+pem key - nodemaal.pem
+ssh login command - ssh ubuntu@54.179.75.161 -i nodemaal.pem
+
+
+Server Name - MAAL-BC2
+Server ip - 54.179.130.229
+pem key - nodemaal.pem
+ssh login command - ssh ubuntu@54.179.130.229 -i nodemaal.pem
