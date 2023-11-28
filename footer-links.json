@@ -1,14 +1,17 @@
-[
-    {
-        "text": "Homepage",
-        "url": "https://testnet3.maalscan.io"
-    },
-    {
-        "text": "Telegram",
-        "url": "https://t.me/MAALSCAN"
-    },
-    {
-        "text": "Github",
-        "url": "https://github.com/maalchain"
-    }
-]
+{
+    "title": "Socials",
+    "links": [
+        {
+            "text": "Homepage",
+            "url": "https://testnet3.maalscan.io"
+        },
+        {
+            "text": "Telegram",
+            "url": "https://t.me/MAALSCAN"
+        },
+        {
+            "text": "Github",
+            "url": "https://github.com/maalchain"
+        }
+    ]
+}
