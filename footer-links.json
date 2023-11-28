@@ -1,17 +1,36 @@
-{
-    "title": "Socials",
-    "links": [
-        {
-            "text": "Homepage",
-            "url": "https://testnet3.maalscan.io"
-        },
-        {
-            "text": "Telegram",
-            "url": "https://t.me/MAALSCAN"
-        },
-        {
-            "text": "Github",
-            "url": "https://github.com/maalchain"
-        }
-    ]
-}
+[
+    {
+        "title": "Socials",
+        "links": [
+            {
+                "text": "Homepage",
+                "url": "https://testnet3.maalscan.io"
+            },
+            {
+                "text": "Telegram",
+                "url": "https://t.me/MAALSCAN"
+            },
+            {
+                "text": "Github",
+                "url": "https://github.com/maalchain"
+            }
+        ]
+    },
+    {
+        "title": "Ecosystem",
+        "links": [
+            {
+                "text": "NFT MarketPlace",
+                "url": "https://testnet.pansea.io"
+            },
+            {
+                "text": "Swap",
+                "url": "https://app.ramzswap.com"
+            },
+            {
+                "text": "RMC",
+                "url": "https://ramzmarketcap.com"
+            }
+        ]
+    }
+]
