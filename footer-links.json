@@ -30,6 +30,10 @@
             {
                 "text": "RMC",
                 "url": "https://ramzmarketcap.com"
+            },
+            {
+                "text": "Mainnet Explorer",
+                "url": "https://maalscan.io"
             }
         ]
     }
