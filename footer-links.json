@@ -3,16 +3,66 @@
         "title": "Socials",
         "links": [
             {
-                "text": "Homepage",
-                "url": "https://testnet3.maalscan.io"
+                "text": "Twitter",
+                "url": "https://twitter.com/MaalChain"
+            },
+            {
+                "text": "Facebook",
+                "url": "https://www.facebook.com/MaalChainOfficial"
+            },
+            {
+                "text": "Tik-Tok",
+                "url": "https://www.tiktok.com/@maalchain_official"
+            },
+            {
+                "text": "Discord",
+                "url": "https://discord.com/invite/YPYstbGmgd"
             },
             {
                 "text": "Telegram",
                 "url": "https://t.me/MAALSCAN"
             },
             {
+                "text": "YouTube",
+                "url": "https://www.youtube.com/@maalchain_official"
+            },
+            {
+                "text": "Instagram",
+                "url": "https://www.instagram.com/Maalchain/"
+            },
+            {
+                "text": "LinkedIn",
+                "url": "https://www.linkedin.com/company/maalchain"
+            },
+            {
                 "text": "Github",
                 "url": "https://github.com/maalchain"
+            }
+        ]
+    },
+    
+    {
+        "title": "Useful Links",
+        "links": [
+            {
+                "text": "Understanding Maal",
+                "url": "https://www.maalchain.com/_files/ugd/86c92d_1c917805603c434eb61291ca356e6b3c.pdf"
+            },
+            {
+                "text": "Maal DAO Validator",
+                "url": "https://www.maalchain.com/_files/ugd/86c92d_29bede3ae6f145ad8122ea487acd5881.pdf"
+            },
+            {
+                "text": "Build on MaalChain",
+                "url": "https://www.maalchain.com/build-with-us"
+            },
+            {
+                "text": "Developer Program",
+                "url": "https://www.maalchain.com/_files/ugd/86c92d_0208cb812bde4a8e919515ba51a15810.pdf"
+            },
+            {
+                "text": "Utilities on MaalChain",
+                "url": "https://www.youtube.com/watch?v=_2qXnwbKx-c"
             }
         ]
     },
