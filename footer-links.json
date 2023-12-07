@@ -42,8 +42,12 @@
     },
     
     {
-        "title": "Useful Links",
+        "title": "Resources",
         "links": [
+            {
+                "text": "Documentation",
+                "url": "https://docs.maalscan.io"
+            },
             {
                 "text": "Understanding Maal",
                 "url": "https://www.maalchain.com/_files/ugd/86c92d_1c917805603c434eb61291ca356e6b3c.pdf"
@@ -78,16 +82,53 @@
                 "url": "https://testnet.pansea.io"
             },
             {
-                "text": "Swap",
+                "text": "Ramz Swap (DEX)",
                 "url": "https://app.ramzswap.com"
             },
             {
-                "text": "RMC",
+                "text": "Ramz Market Cap",
                 "url": "https://ramzmarketcap.com"
             },
             {
                 "text": "Mainnet Explorer",
                 "url": "https://maalscan.io"
+            },
+            {
+                "text": "Testnet Explorer",
+                "url": "https://testnet.maalscan.io"
+            }
+        ]
+    },
+    {
+        "title": "Quick Links",
+        "links": [
+            {
+                "text": "Blocks",
+                "url": "https://testnet2.maalscan.io/blocks"
+            },
+            {
+                "text": "Transactions",
+                "url": "https://testnet2.maalscan.io/txs"
+            },
+            {
+                "text": "Tokens",
+                "url": "https://testnet2.maalscan.io/tokens"
+            },
+            {
+                "text": "MAAL Holders",
+                "url": "https://testnet2.maalscan.io/accounts"
+            },
+            {
+                "text": "Stats",
+                "url": "https://testnet2.maalscan.io/stats"
+            },
+            {
+                "text": "Verified Contracts",
+                "url": "https://testnet2.maalscan.io/verified-contracts"
+            },
+            {
+                "text": "API Docs",
+                "url": "https://testnet2.maalscan.io/api-docs"
             }
         ]
     }
